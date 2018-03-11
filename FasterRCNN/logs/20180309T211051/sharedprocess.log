@@ -1,0 +1,66 @@
+[2018-03-09 21:10:57.643] [sharedprocess] [info] main {"machineId":"72f7c7c5afc74e0187059b963369052f26426e6fa0adc938ce71c2b9b95a82d7"}
+[2018-03-09 21:10:57.913] [sharedprocess] [info] Scanned user extensions: 8
+[2018-03-09 21:10:58.330] [sharedprocess] [info] Scanned system extensions: 65
+[2018-03-09 21:11:00.222] [sharedprocess] [info] Scanned user extensions: 8
+[2018-03-09 21:11:00.242] [sharedprocess] [info] Scanned user extensions: 8
+[2018-03-09 21:11:00.261] [sharedprocess] [info] Scanned user extensions: 8
+[2018-03-09 21:11:00.456] [sharedprocess] [info] Scanned system extensions: 65
+[2018-03-09 21:11:00.464] [sharedprocess] [info] Scanned system extensions: 65
+[2018-03-09 21:11:00.675] [sharedprocess] [info] Scanned user extensions: 8
+[2018-03-09 21:11:00.681] [sharedprocess] [info] Scanned user extensions: 8
+[2018-03-09 21:11:00.753] [sharedprocess] [info] Scanned system extensions: 65
+[2018-03-09 21:11:03.615] [sharedprocess] [info] Scanned user extensions: 8
+[2018-03-09 21:11:03.827] [sharedprocess] [info] Installing extension: python
+[2018-03-09 21:11:03.837] [sharedprocess] [info] Installing extension: vim
+[2018-03-09 21:11:10.922] [sharedprocess] [info] Scanned user extensions: 8
+[2018-03-09 21:11:11.242] [sharedprocess] [info] Downloaded extension: vim
+[2018-03-09 21:11:16.182] [sharedprocess] [info] Extracted extension to /root/.vscode/extensions/vscodevim.vim-0.11.2: vscodevim.vim-0.11.2
+[2018-03-09 21:11:16.308] [sharedprocess] [info] Updated metadata of the extension: vscodevim.vim-0.11.2
+[2018-03-09 21:11:16.309] [sharedprocess] [info] Extensions installed successfully: vscodevim.vim
+[2018-03-09 21:11:16.459] [sharedprocess] [info] Scanned user extensions: 8
+[2018-03-09 21:11:16.508] [sharedprocess] [info] Scanned system extensions: 65
+[2018-03-09 21:11:21.447] [sharedprocess] [info] Downloaded extension: python
+[2018-03-09 21:11:32.063] [sharedprocess] [info] Extracted extension to /root/.vscode/extensions/ms-python.python-2018.2.0: ms-python.python-2018.2.0
+[2018-03-09 21:11:32.215] [sharedprocess] [info] Updated metadata of the extension: ms-python.python-2018.2.0
+[2018-03-09 21:11:32.215] [sharedprocess] [info] Extensions installed successfully: ms-python.python
+[2018-03-09 21:11:32.387] [sharedprocess] [info] Scanned user extensions: 8
+[2018-03-09 21:11:32.433] [sharedprocess] [info] Scanned system extensions: 65
+[2018-03-09 21:13:09.610] [sharedprocess] [info] Scanned user extensions: 8
+[2018-03-09 21:16:04.052] [sharedprocess] [info] Scanned user extensions: 8
+[2018-03-09 21:21:04.586] [sharedprocess] [info] Scanned user extensions: 8
+[2018-03-09 21:26:04.786] [sharedprocess] [info] Scanned user extensions: 8
+[2018-03-09 21:31:05.041] [sharedprocess] [info] Scanned user extensions: 8
+[2018-03-09 21:34:06.828] [sharedprocess] [info] Scanned user extensions: 8
+[2018-03-09 21:34:06.848] [sharedprocess] [info] Scanned user extensions: 8
+[2018-03-09 21:34:06.862] [sharedprocess] [info] Scanned user extensions: 8
+[2018-03-09 21:34:07.073] [sharedprocess] [info] Scanned system extensions: 65
+[2018-03-09 21:34:07.081] [sharedprocess] [info] Scanned system extensions: 65
+[2018-03-09 21:36:05.354] [sharedprocess] [info] Scanned user extensions: 8
+[2018-03-09 21:41:06.184] [sharedprocess] [info] Scanned user extensions: 8
+[2018-03-09 21:46:17.573] [sharedprocess] [info] Scanned user extensions: 8
+[2018-03-09 21:51:27.722] [sharedprocess] [info] Scanned user extensions: 8
+[2018-03-09 21:54:42.725] [sharedprocess] [info] Scanned user extensions: 8
+[2018-03-09 21:56:28.479] [sharedprocess] [info] Scanned user extensions: 8
+[2018-03-09 22:01:28.704] [sharedprocess] [info] Scanned user extensions: 8
+[2018-03-09 22:06:35.940] [sharedprocess] [info] Scanned user extensions: 8
+[2018-03-09 22:11:36.223] [sharedprocess] [info] Scanned user extensions: 8
+[2018-03-09 22:16:46.847] [sharedprocess] [info] Scanned user extensions: 8
+[2018-03-09 22:22:01.993] [sharedprocess] [info] Scanned user extensions: 8
+[2018-03-09 22:27:02.223] [sharedprocess] [info] Scanned user extensions: 8
+[2018-03-09 22:32:02.448] [sharedprocess] [info] Scanned user extensions: 8
+[2018-03-09 22:37:02.645] [sharedprocess] [info] Scanned user extensions: 8
+[2018-03-09 22:42:03.090] [sharedprocess] [info] Scanned user extensions: 8
+[2018-03-09 22:47:13.436] [sharedprocess] [info] Scanned user extensions: 8
+[2018-03-09 22:52:19.128] [sharedprocess] [info] Scanned user extensions: 8
+[2018-03-09 22:57:19.415] [sharedprocess] [info] Scanned user extensions: 8
+[2018-03-09 23:02:26.281] [sharedprocess] [info] Scanned user extensions: 8
+[2018-03-09 23:07:26.581] [sharedprocess] [info] Scanned user extensions: 8
+[2018-03-09 23:12:32.117] [sharedprocess] [info] Scanned user extensions: 8
+[2018-03-09 23:14:14.225] [sharedprocess] [info] Scanned user extensions: 8
+[2018-03-09 23:17:32.306] [sharedprocess] [info] Scanned user extensions: 8
+[2018-03-09 23:22:32.441] [sharedprocess] [info] Scanned user extensions: 8
+[2018-03-09 23:27:38.111] [sharedprocess] [info] Scanned user extensions: 8
+[2018-03-09 23:32:38.285] [sharedprocess] [info] Scanned user extensions: 8
+[2018-03-09 23:37:43.483] [sharedprocess] [info] Scanned user extensions: 8
+[2018-03-09 23:42:54.210] [sharedprocess] [info] Scanned user extensions: 8
+[2018-03-09 23:47:54.341] [sharedprocess] [info] Scanned user extensions: 8
