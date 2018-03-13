@@ -1,0 +1,29 @@
+##########Linting Output - pylint##########
+No config file found, using default configuration
+************* Module RPNDataset
+13,8,error,E1601:print statement used
+17,8,error,E1601:print statement used
+19,20,error,E1101:Module 'cv2' has no 'imread' member
+10,26,warning,W0612:Unused variable 'X_test'
+10,17,warning,W0612:Unused variable 'Y_train'
+10,34,warning,W0612:Unused variable 'Y_test'
+
+--------------------------------------------------------------------
+Your code has been rated at -0.59/10 (previous run: -0.59/10, +0.00)
+
+##########Linting Output - pylint##########
+No config file found, using default configuration
+************* Module RPNDataset
+13,8,error,E1601:print statement used
+17,8,error,E1601:print statement used
+19,20,error,E1101:Module 'cv2' has no 'imread' member
+10,26,warning,W0612:Unused variable 'X_test'
+10,17,warning,W0612:Unused variable 'Y_train'
+10,34,warning,W0612:Unused variable 'Y_test'
+
+--------------------------------------------------------------------
+Your code has been rated at -0.59/10 (previous run: -0.59/10, +0.00)
+
+
+Linter 'pylint' is not installed. Please install it or select another linter".
+Error: spawn /usr/local/opt/opencv2/lib/python2.7 ENOENT
