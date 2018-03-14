@@ -1,0 +1,439 @@
+##########Linting Output - pylint##########
+##########Linting Output - pylint##########
+No config file found, using default configuration
+************* Module GenerateData
+19,16,error,E1101:Module 'cv2' has no 'imread' member
+11,5,warning,W0612:Unused variable 'X_train'
+11,14,warning,W0612:Unused variable 'y_train'
+11,25,warning,W0612:Unused variable 'X_test'
+11,33,warning,W0612:Unused variable 'y_test'
+19,8,warning,W0612:Unused variable 'image'
+30,16,warning,W0612:Unused variable 'j'
+
+-----------------------------------
+Your code has been rated at 7.84/10
+
+##########Linting Output - pylint##########
+No config file found, using default configuration
+************* Module GenerateData
+39,0,error,E0001:unindent does not match any outer indentation level (<string>, line 39)
+##########Linting Output - pylint##########
+No config file found, using default configuration
+************* Module GenerateData
+19,16,error,E1101:Module 'cv2' has no 'imread' member
+11,5,warning,W0612:Unused variable 'X_train'
+11,14,warning,W0612:Unused variable 'y_train'
+11,25,warning,W0612:Unused variable 'X_test'
+11,33,warning,W0612:Unused variable 'y_test'
+19,8,warning,W0612:Unused variable 'image'
+28,8,warning,W0612:Unused variable 'flags'
+30,16,warning,W0612:Unused variable 'j'
+
+------------------------------------------------------------------
+Your code has been rated at 6.25/10 (previous run: 7.84/10, -1.59)
+
+##########Linting Output - pylint##########
+No config file found, using default configuration
+************* Module GenerateData
+70,0,error,E0001:EOF while scanning triple-quoted string literal (<string>, line 70)
+##########Linting Output - pylint##########
+No config file found, using default configuration
+************* Module GenerateData
+19,16,error,E1101:Module 'cv2' has no 'imread' member
+11,5,warning,W0612:Unused variable 'X_train'
+11,14,warning,W0612:Unused variable 'y_train'
+11,25,warning,W0612:Unused variable 'X_test'
+11,33,warning,W0612:Unused variable 'y_test'
+19,8,warning,W0612:Unused variable 'image'
+30,16,warning,W0612:Unused variable 'j'
+
+------------------------------------------------------------------
+Your code has been rated at 7.50/10 (previous run: 6.25/10, +1.25)
+
+##########Linting Output - pylint##########
+No config file found, using default configuration
+************* Module GenerateData
+19,16,error,E1101:Module 'cv2' has no 'imread' member
+8,4,warning,W0612:Unused variable 'base_image_width'
+8,22,warning,W0612:Unused variable 'base_image_height'
+10,21,warning,W0612:Unused variable 'num_width'
+10,32,warning,W0612:Unused variable 'num_height'
+10,44,warning,W0612:Unused variable 'num_x'
+10,51,warning,W0612:Unused variable 'num_y'
+11,5,warning,W0612:Unused variable 'X_train'
+11,14,warning,W0612:Unused variable 'y_train'
+11,25,warning,W0612:Unused variable 'X_test'
+11,33,warning,W0612:Unused variable 'y_test'
+19,8,warning,W0612:Unused variable 'image'
+20,8,warning,W0612:Unused variable 'numbers_of_nums'
+31,46,error,E0602:Undefined variable 'base_image_width'
+32,46,error,E0602:Undefined variable 'base_image_height'
+36,12,warning,W0612:Unused variable 'j'
+
+------------------------------------------------------------------
+Your code has been rated at 3.91/10 (previous run: 7.50/10, -3.59)
+
+##########Linting Output - pylint##########
+No config file found, using default configuration
+************* Module GenerateData
+19,16,error,E1101:Module 'cv2' has no 'imread' member
+8,4,warning,W0612:Unused variable 'base_image_width'
+8,22,warning,W0612:Unused variable 'base_image_height'
+10,21,warning,W0612:Unused variable 'num_width'
+10,32,warning,W0612:Unused variable 'num_height'
+10,44,warning,W0612:Unused variable 'num_x'
+10,51,warning,W0612:Unused variable 'num_y'
+11,5,warning,W0612:Unused variable 'X_train'
+11,14,warning,W0612:Unused variable 'y_train'
+11,25,warning,W0612:Unused variable 'X_test'
+11,33,warning,W0612:Unused variable 'y_test'
+19,8,warning,W0612:Unused variable 'image'
+20,8,warning,W0612:Unused variable 'numbers_of_nums'
+36,12,warning,W0612:Unused variable 'j'
+
+------------------------------------------------------------------
+Your code has been rated at 6.09/10 (previous run: 3.91/10, +2.17)
+
+##########Linting Output - pylint##########
+No config file found, using default configuration
+************* Module GenerateData
+19,16,error,E1101:Module 'cv2' has no 'imread' member
+21,46,error,E1120:No value for argument 'base_image_width' in function call
+21,46,error,E1120:No value for argument 'base_image_height' in function call
+8,4,warning,W0612:Unused variable 'base_image_width'
+8,22,warning,W0612:Unused variable 'base_image_height'
+10,21,warning,W0612:Unused variable 'num_width'
+10,32,warning,W0612:Unused variable 'num_height'
+10,44,warning,W0612:Unused variable 'num_x'
+10,51,warning,W0612:Unused variable 'num_y'
+11,5,warning,W0612:Unused variable 'X_train'
+11,14,warning,W0612:Unused variable 'y_train'
+11,25,warning,W0612:Unused variable 'X_test'
+11,33,warning,W0612:Unused variable 'y_test'
+19,8,warning,W0612:Unused variable 'image'
+20,8,warning,W0612:Unused variable 'numbers_of_nums'
+28,4,error,E0632:Possible unbalanced tuple unpacking with sequence ([], [], [], []): left side has 5 label(s), right side has 4 value(s)
+37,12,warning,W0612:Unused variable 'j'
+
+------------------------------------------------------------------
+Your code has been rated at 3.12/10 (previous run: 6.09/10, -2.96)
+
+##########Linting Output - pylint##########
+No config file found, using default configuration
+************* Module GenerateData
+19,16,error,E1101:Module 'cv2' has no 'imread' member
+10,21,warning,W0612:Unused variable 'num_width'
+10,32,warning,W0612:Unused variable 'num_height'
+10,44,warning,W0612:Unused variable 'num_x'
+10,51,warning,W0612:Unused variable 'num_y'
+11,5,warning,W0612:Unused variable 'X_train'
+11,14,warning,W0612:Unused variable 'y_train'
+11,25,warning,W0612:Unused variable 'X_test'
+11,33,warning,W0612:Unused variable 'y_test'
+19,8,warning,W0612:Unused variable 'image'
+37,12,warning,W0612:Unused variable 'j'
+
+------------------------------------------------------------------
+Your code has been rated at 6.88/10 (previous run: 3.12/10, +3.75)
+
+##########Linting Output - pylint##########
+No config file found, using default configuration
+************* Module GenerateData
+19,16,error,E1101:Module 'cv2' has no 'imread' member
+10,21,warning,W0612:Unused variable 'num_width'
+10,32,warning,W0612:Unused variable 'num_height'
+10,44,warning,W0612:Unused variable 'num_x'
+10,51,warning,W0612:Unused variable 'num_y'
+11,5,warning,W0612:Unused variable 'X_train'
+11,14,warning,W0612:Unused variable 'y_train'
+11,25,warning,W0612:Unused variable 'X_test'
+11,33,warning,W0612:Unused variable 'y_test'
+19,8,warning,W0612:Unused variable 'image'
+21,8,warning,W0612:Unused variable 'number_of_nums'
+48,23,error,E0602:Undefined variable 'aumbers_of_nums'
+62,11,error,E0602:Undefined variable 'number_of_nums'
+37,12,warning,W0612:Unused variable 'j'
+
+------------------------------------------------------------------
+Your code has been rated at 4.69/10 (previous run: 6.88/10, -2.18)
+
+##########Linting Output - pylint##########
+No config file found, using default configuration
+************* Module GenerateData
+19,16,error,E1101:Module 'cv2' has no 'imread' member
+10,21,warning,W0612:Unused variable 'num_width'
+10,32,warning,W0612:Unused variable 'num_height'
+10,44,warning,W0612:Unused variable 'num_x'
+10,51,warning,W0612:Unused variable 'num_y'
+11,5,warning,W0612:Unused variable 'X_train'
+11,14,warning,W0612:Unused variable 'y_train'
+11,25,warning,W0612:Unused variable 'X_test'
+11,33,warning,W0612:Unused variable 'y_test'
+19,8,warning,W0612:Unused variable 'image'
+21,8,warning,W0612:Unused variable 'number_of_nums'
+62,11,error,E0602:Undefined variable 'number_of_nums'
+37,12,warning,W0612:Unused variable 'j'
+
+------------------------------------------------------------------
+Your code has been rated at 5.71/10 (previous run: 4.69/10, +1.02)
+
+##########Linting Output - pylint##########
+No config file found, using default configuration
+************* Module GenerateData
+19,16,error,E1101:Module 'cv2' has no 'imread' member
+10,21,warning,W0612:Unused variable 'num_width'
+10,32,warning,W0612:Unused variable 'num_height'
+10,44,warning,W0612:Unused variable 'num_x'
+10,51,warning,W0612:Unused variable 'num_y'
+11,5,warning,W0612:Unused variable 'X_train'
+11,14,warning,W0612:Unused variable 'y_train'
+11,25,warning,W0612:Unused variable 'X_test'
+11,33,warning,W0612:Unused variable 'y_test'
+19,8,warning,W0612:Unused variable 'image'
+21,8,warning,W0612:Unused variable 'number_of_nums'
+60,11,error,E0602:Undefined variable 'number_of_nums'
+35,12,warning,W0612:Unused variable 'j'
+
+------------------------------------------------------------------
+Your code has been rated at 5.71/10 (previous run: 5.71/10, +0.00)
+
+##########Linting Output - pylint##########
+No config file found, using default configuration
+************* Module GenerateData
+26,0,error,E0001:invalid syntax (<string>, line 26)
+##########Linting Output - pylint##########
+No config file found, using default configuration
+************* Module GenerateData
+20,16,error,E1101:Module 'cv2' has no 'imread' member
+11,14,warning,W0612:Unused variable 'y_train'
+11,25,warning,W0612:Unused variable 'X_test'
+11,33,warning,W0612:Unused variable 'y_test'
+64,11,error,E0602:Undefined variable 'number_of_nums'
+39,12,warning,W0612:Unused variable 'j'
+
+------------------------------------------------------------------
+Your code has been rated at 7.36/10 (previous run: 5.71/10, +1.64)
+
+##########Linting Output - pylint##########
+No config file found, using default configuration
+************* Module RPNDataset
+25,20,error,E1101:Module 'cv2' has no 'imread' member
+16,17,warning,W0612:Unused variable 'Y_train'
+16,26,warning,W0612:Unused variable 'X_test'
+16,34,warning,W0612:Unused variable 'Y_test'
+
+------------------------------------------------------------------
+Your code has been rated at 6.52/10 (previous run: 6.36/10, +0.16)
+
+##########Linting Output - pylint##########
+No config file found, using default configuration
+************* Module test
+5,6,error,E1101:Module 'cv2' has no 'imread' member
+6,0,error,E1101:Module 'cv2' has no 'imshow' member
+9,0,error,E1101:Module 'cv2' has no 'waitKey' member
+10,0,error,E1101:Module 'cv2' has no 'destroyAllWindows' member
+
+----------------------------------------------------------------------
+Your code has been rated at -15.00/10 (previous run: -3.64/10, -11.36)
+
+##########Linting Output - pylint##########
+No config file found, using default configuration
+************* Module GenerateData
+20,16,error,E1101:Module 'cv2' has no 'imread' member
+27,12,error,E1101:Module 'cv2' has no 'imwrite' member
+11,14,warning,W0612:Unused variable 'y_train'
+11,25,warning,W0612:Unused variable 'X_test'
+11,33,warning,W0612:Unused variable 'y_test'
+65,11,error,E0602:Undefined variable 'number_of_nums'
+40,12,warning,W0612:Unused variable 'j'
+
+------------------------------------------------------------------
+Your code has been rated at 6.48/10 (previous run: 7.36/10, -0.88)
+
+##########Linting Output - pylint##########
+No config file found, using default configuration
+************* Module GenerateData
+20,16,error,E1101:Module 'cv2' has no 'imread' member
+27,12,error,E1101:Module 'cv2' has no 'imwrite' member
+11,14,warning,W0612:Unused variable 'y_train'
+11,25,warning,W0612:Unused variable 'X_test'
+11,33,warning,W0612:Unused variable 'y_test'
+65,11,error,E0602:Undefined variable 'number_of_nums'
+40,12,warning,W0612:Unused variable 'j'
+
+------------------------------------------------------------------
+Your code has been rated at 6.48/10 (previous run: 6.48/10, +0.00)
+
+##########Linting Output - pylint##########
+No config file found, using default configuration
+************* Module GenerateData
+20,16,error,E1101:Module 'cv2' has no 'imread' member
+21,16,error,E1101:Module 'cv2' has no 'resize' member
+28,12,error,E1101:Module 'cv2' has no 'imwrite' member
+11,14,warning,W0612:Unused variable 'y_train'
+11,25,warning,W0612:Unused variable 'X_test'
+11,33,warning,W0612:Unused variable 'y_test'
+66,11,error,E0602:Undefined variable 'number_of_nums'
+41,12,warning,W0612:Unused variable 'j'
+
+------------------------------------------------------------------
+Your code has been rated at 5.64/10 (previous run: 6.48/10, -0.85)
+
+##########Linting Output - pylint##########
+No config file found, using default configuration
+************* Module GenerateData
+20,16,error,E1101:Module 'cv2' has no 'imread' member
+21,16,error,E1101:Module 'cv2' has no 'resize' member
+28,12,error,E1101:Module 'cv2' has no 'imwrite' member
+11,14,warning,W0612:Unused variable 'y_train'
+11,25,warning,W0612:Unused variable 'X_test'
+11,33,warning,W0612:Unused variable 'y_test'
+41,12,warning,W0612:Unused variable 'j'
+
+------------------------------------------------------------------
+Your code has been rated at 6.55/10 (previous run: 5.64/10, +0.91)
+
+##########Linting Output - pylint##########
+No config file found, using default configuration
+************* Module GenerateData
+20,16,error,E1101:Module 'cv2' has no 'imread' member
+21,16,error,E1101:Module 'cv2' has no 'resize' member
+28,12,error,E1101:Module 'cv2' has no 'imwrite' member
+11,14,warning,W0612:Unused variable 'y_train'
+11,25,warning,W0612:Unused variable 'X_test'
+11,33,warning,W0612:Unused variable 'y_test'
+41,12,warning,W0612:Unused variable 'j'
+
+------------------------------------------------------------------
+Your code has been rated at 6.55/10 (previous run: 6.55/10, +0.00)
+
+##########Linting Output - pylint##########
+No config file found, using default configuration
+************* Module GenerateData
+20,16,error,E1101:Module 'cv2' has no 'imread' member
+21,16,error,E1101:Module 'cv2' has no 'resize' member
+28,12,error,E1101:Module 'cv2' has no 'imwrite' member
+11,14,warning,W0612:Unused variable 'y_train'
+11,25,warning,W0612:Unused variable 'X_test'
+11,33,warning,W0612:Unused variable 'y_test'
+41,12,warning,W0612:Unused variable 'j'
+
+------------------------------------------------------------------
+Your code has been rated at 6.55/10 (previous run: 6.55/10, +0.00)
+
+##########Linting Output - pylint##########
+No config file found, using default configuration
+************* Module GenerateData
+20,16,error,E1101:Module 'cv2' has no 'imread' member
+21,16,error,E1101:Module 'cv2' has no 'resize' member
+28,12,error,E1101:Module 'cv2' has no 'imwrite' member
+11,14,warning,W0612:Unused variable 'y_train'
+11,25,warning,W0612:Unused variable 'X_test'
+11,33,warning,W0612:Unused variable 'y_test'
+41,12,warning,W0612:Unused variable 'j'
+
+------------------------------------------------------------------
+Your code has been rated at 6.55/10 (previous run: 6.55/10, +0.00)
+
+##########Linting Output - pylint##########
+No config file found, using default configuration
+************* Module GenerateData
+20,16,error,E1101:Module 'cv2' has no 'imread' member
+21,16,error,E1101:Module 'cv2' has no 'resize' member
+28,12,error,E1101:Module 'cv2' has no 'imwrite' member
+11,14,warning,W0612:Unused variable 'y_train'
+11,25,warning,W0612:Unused variable 'X_test'
+11,33,warning,W0612:Unused variable 'y_test'
+41,12,warning,W0612:Unused variable 'j'
+
+------------------------------------------------------------------
+Your code has been rated at 6.55/10 (previous run: 6.55/10, +0.00)
+
+##########Linting Output - pylint##########
+No config file found, using default configuration
+************* Module GenerateData
+24,0,error,E0001:unindent does not match any outer indentation level (<string>, line 24)
+##########Linting Output - pylint##########
+No config file found, using default configuration
+************* Module GenerateData
+20,16,error,E1101:Module 'cv2' has no 'imread' member
+21,16,error,E1101:Module 'cv2' has no 'resize' member
+31,12,error,E1101:Module 'cv2' has no 'imwrite' member
+11,14,warning,W0612:Unused variable 'y_train'
+11,25,warning,W0612:Unused variable 'X_test'
+11,33,warning,W0612:Unused variable 'y_test'
+44,12,warning,W0612:Unused variable 'j'
+
+------------------------------------------------------------------
+Your code has been rated at 6.78/10 (previous run: 6.55/10, +0.23)
+
+##########Linting Output - pylint##########
+No config file found, using default configuration
+************* Module GenerateData
+20,16,error,E1101:Module 'cv2' has no 'imread' member
+21,16,error,E1101:Module 'cv2' has no 'resize' member
+33,12,error,E1101:Module 'cv2' has no 'imwrite' member
+11,14,warning,W0612:Unused variable 'y_train'
+11,25,warning,W0612:Unused variable 'X_test'
+11,33,warning,W0612:Unused variable 'y_test'
+46,12,warning,W0612:Unused variable 'j'
+
+------------------------------------------------------------------
+Your code has been rated at 6.78/10 (previous run: 6.78/10, +0.00)
+
+##########Linting Output - pylint##########
+No config file found, using default configuration
+************* Module GenerateData
+20,16,error,E1101:Module 'cv2' has no 'imread' member
+21,16,error,E1101:Module 'cv2' has no 'resize' member
+33,12,error,E1101:Module 'cv2' has no 'imwrite' member
+11,14,warning,W0612:Unused variable 'y_train'
+11,25,warning,W0612:Unused variable 'X_test'
+11,33,warning,W0612:Unused variable 'y_test'
+46,12,warning,W0612:Unused variable 'j'
+
+------------------------------------------------------------------
+Your code has been rated at 6.78/10 (previous run: 6.78/10, +0.00)
+
+##########Linting Output - pylint##########
+No config file found, using default configuration
+************* Module GenerateData
+20,16,error,E1101:Module 'cv2' has no 'imread' member
+21,16,error,E1101:Module 'cv2' has no 'resize' member
+33,12,error,E1101:Module 'cv2' has no 'imwrite' member
+11,14,warning,W0612:Unused variable 'y_train'
+11,25,warning,W0612:Unused variable 'X_test'
+11,33,warning,W0612:Unused variable 'y_test'
+46,12,warning,W0612:Unused variable 'j'
+
+------------------------------------------------------------------
+Your code has been rated at 6.78/10 (previous run: 6.78/10, +0.00)
+
+##########Linting Output - pylint##########
+No config file found, using default configuration
+************* Module GenerateData
+20,16,error,E1101:Module 'cv2' has no 'imread' member
+21,16,error,E1101:Module 'cv2' has no 'resize' member
+33,12,error,E1101:Module 'cv2' has no 'imwrite' member
+11,14,warning,W0612:Unused variable 'y_train'
+11,25,warning,W0612:Unused variable 'X_test'
+11,33,warning,W0612:Unused variable 'y_test'
+46,12,warning,W0612:Unused variable 'j'
+
+------------------------------------------------------------------
+Your code has been rated at 6.78/10 (previous run: 6.78/10, +0.00)
+
+##########Linting Output - pylint##########
+No config file found, using default configuration
+************* Module GenerateData
+20,16,error,E1101:Module 'cv2' has no 'imread' member
+21,16,error,E1101:Module 'cv2' has no 'resize' member
+33,12,error,E1101:Module 'cv2' has no 'imwrite' member
+11,14,warning,W0612:Unused variable 'y_train'
+11,25,warning,W0612:Unused variable 'X_test'
+11,33,warning,W0612:Unused variable 'y_test'
+47,12,warning,W0612:Unused variable 'j'
+
+------------------------------------------------------------------
+Your code has been rated at 6.78/10 (previous run: 6.78/10, +0.00)
+

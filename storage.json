@@ -2,6 +2,7 @@
     "telemetry.machineId": "72f7c7c5afc74e0187059b963369052f26426e6fa0adc938ce71c2b9b95a82d7",
     "openedPathsList": {
         "workspaces": [
+            "/root/Desktop/DeepLearning/Faster-RCNN",
             "/root/Desktop/Ex",
             "/root/Desktop/DeepLearning/FasterRCNN",
             "/root/Desktop/DeepLearning/Faster-RCNN/FasterRCNN"
@@ -12,6 +13,16 @@
         "workbench.action.files.newUntitledFile": {
             "id": "workbench.action.files.newUntitledFile",
             "label": "Ctrl+N",
+            "isNative": true
+        },
+        "workbench.action.files.openFolder": {
+            "id": "workbench.action.files.openFolder",
+            "label": "Ctrl+K Ctrl+O",
+            "isNative": false
+        },
+        "workbench.action.files.openFile": {
+            "id": "workbench.action.files.openFile",
+            "label": "Ctrl+O",
             "isNative": true
         },
         "workbench.action.reopenClosedEditor": {
@@ -266,7 +277,7 @@
         },
         "workbench.action.toggleEditorGroupLayout": {
             "id": "workbench.action.toggleEditorGroupLayout",
-            "label": "Shift+Alt+1",
+            "label": "Shift+Alt+0",
             "isNative": true
         },
         "workbench.action.toggleSidebarVisibility": {
@@ -445,13 +456,13 @@
     "windowsState": {
         "openedWindows": [],
         "lastActiveWindow": {
-            "folderPath": "/root/Desktop/DeepLearning/FasterRCNN",
-            "backupPath": "/root/Desktop/DeepLearning/FasterRCNN/Backups/8f5eabd9f1c7db0ae3f78d047725a64d",
+            "folderPath": "/root/Desktop/DeepLearning/Faster-RCNN",
+            "backupPath": "/root/Desktop/DeepLearning/Faster-RCNN/Backups/bacf4ba876a54fadf5f3d18daedc832a",
             "uiState": {
                 "mode": 0,
-                "x": 0,
+                "x": 51,
                 "y": 59,
-                "width": 1920,
+                "width": 1869,
                 "height": 1021
             }
         }
