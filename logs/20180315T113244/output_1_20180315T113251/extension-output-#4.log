@@ -1,0 +1,54 @@
+##########Linting Output - pylint##########
+##########Linting Output - pylint##########
+No config file found, using default configuration
+************* Module GenerateData
+20,16,error,E1101:Module 'cv2' has no 'imread' member
+21,16,error,E1101:Module 'cv2' has no 'resize' member
+31,22,error,E1101:Module 'cv2' has no 'resize' member
+34,4,error,E1101:Module 'cv2' has no 'imwrite' member
+11,14,warning,W0612:Unused variable 'y_train'
+11,25,warning,W0612:Unused variable 'X_test'
+11,33,warning,W0612:Unused variable 'y_test'
+
+------------------------------------------------------------------
+Your code has been rated at 5.49/10 (previous run: 5.49/10, +0.00)
+
+##########Linting Output - pylint##########
+No config file found, using default configuration
+************* Module GenerateData
+20,16,error,E1101:Module 'cv2' has no 'imread' member
+21,16,error,E1101:Module 'cv2' has no 'resize' member
+31,22,error,E1101:Module 'cv2' has no 'resize' member
+34,8,error,E1101:Module 'cv2' has no 'imwrite' member
+11,14,warning,W0612:Unused variable 'y_train'
+11,25,warning,W0612:Unused variable 'X_test'
+11,33,warning,W0612:Unused variable 'y_test'
+
+------------------------------------------------------------------
+Your code has been rated at 5.49/10 (previous run: 5.49/10, +0.00)
+
+##########Linting Output - pylint##########
+No config file found, using default configuration
+************* Module GenerateData
+20,16,error,E1101:Module 'cv2' has no 'imread' member
+21,16,error,E1101:Module 'cv2' has no 'resize' member
+31,22,error,E1101:Module 'cv2' has no 'resize' member
+34,8,error,E1101:Module 'cv2' has no 'imwrite' member
+11,14,warning,W0612:Unused variable 'y_train'
+11,25,warning,W0612:Unused variable 'X_test'
+11,33,warning,W0612:Unused variable 'y_test'
+
+------------------------------------------------------------------
+Your code has been rated at 5.49/10 (previous run: 5.49/10, +0.00)
+
+##########Linting Output - pylint##########
+No config file found, using default configuration
+************* Module test
+7,6,error,E1101:Module 'cv2' has no 'imread' member
+8,6,error,E1101:Module 'cv2' has no 'resize' member
+9,10,error,E1101:Module 'cv2' has no 'resize' member
+11,0,error,E1101:Module 'cv2' has no 'imwrite' member
+
+--------------------------------------------------------------------
+Your code has been rated at -8.18/10 (previous run: -8.18/10, +0.00)
+

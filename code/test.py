@@ -1,13 +1,10 @@
 #from RPNDataset import RPNDataset
-#import numpy as np
-import cv2
-
-img = cv2.imread('/root/Downloads/iccv09Data/images/0000051.jpg', 0)
-cv2.imshow('img', img)
-h, w = img.shape
-print("Height: {}\nWidth: {}\nChannel:{}".format(h, w, 1))
-cv2.waitKey(0)
-cv2.destroyAllWindows()
+import numpy as np
+f = '/root/Desktop/DeepLearning/Faster-RCNN/code/RPNDataset/train/Y/xywh0.txt'
+with open(f, 'r') as fl:
+    arr = [int(i) for i in fl.read().split()]
+    #arr = np.reshape(arr, (-1, 4))
+print(arr)
 '''image_path_list = []
 train_data_dir = '/root/Desktop/DeepLearning/FasterRCNN/code/RPNData/train/X/'
 test_data_dir = '/root/Desktop/DeepLearning/FasterRCNN/code/RPNData/test/'
