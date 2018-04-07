@@ -3,21 +3,8 @@
     "openedPathsList": {
         "workspaces": [
             "/root/Desktop/DeepLearning/Faster-RCNN",
-            "/root/Desktop/DeepLearning/Faster-RCNN",
-            "/root/Desktop/DeepLearning/Faster-RCNN",
-            "/root/Desktop/DeepLearning/Faster-RCNN",
-            "/root/Desktop/DeepLearning/Faster-RCNN",
-            "/root/Desktop/DeepLearning/Faster-RCNN",
-            "/root/Desktop/DeepLearning/Faster-RCNN",
-            "/root/Desktop/DeepLearning/Faster-RCNN",
-            "/root/Desktop/DeepLearning/Faster-RCNN",
-            "/root/Desktop/DeepLearning/Faster-RCNN",
-            "/root/Desktop/DeepLearning/Faster-RCNN",
-            "/root/Desktop/DeepLearning/Faster-RCNN",
-            "/root/Desktop/DeepLearning/Faster-RCNN",
-            "/root/Desktop/DeepLearning/Faster-RCNN",
-            "/root/Desktop/DeepLearning/Faster-RCNN",
             "/root/Desktop/Ex",
+            "/root/Desktop/PythonExampels",
             "/root/Desktop/DeepLearning/FasterRCNN",
             "/root/Desktop/DeepLearning/Faster-RCNN/FasterRCNN"
         ],
@@ -27,16 +14,6 @@
         "workbench.action.files.newUntitledFile": {
             "id": "workbench.action.files.newUntitledFile",
             "label": "Ctrl+N",
-            "isNative": true
-        },
-        "workbench.action.files.openFolder": {
-            "id": "workbench.action.files.openFolder",
-            "label": "Ctrl+K Ctrl+O",
-            "isNative": false
-        },
-        "workbench.action.files.openFile": {
-            "id": "workbench.action.files.openFile",
-            "label": "Ctrl+O",
             "isNative": true
         },
         "workbench.action.reopenClosedEditor": {
@@ -291,7 +268,7 @@
         },
         "workbench.action.toggleEditorGroupLayout": {
             "id": "workbench.action.toggleEditorGroupLayout",
-            "label": "Shift+Alt+0",
+            "label": "Shift+Alt+1",
             "isNative": true
         },
         "workbench.action.toggleSidebarVisibility": {
@@ -474,9 +451,9 @@
             "backupPath": "/root/Desktop/DeepLearning/Faster-RCNN/Backups/bacf4ba876a54fadf5f3d18daedc832a",
             "uiState": {
                 "mode": 0,
-                "x": 51,
+                "x": 0,
                 "y": 59,
-                "width": 1869,
+                "width": 1920,
                 "height": 1021
             }
         }

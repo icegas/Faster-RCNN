@@ -6,13 +6,13 @@ import numpy as np
 
 def main():
     base_image_width, base_image_height = 320, 240
-    background_images_dir = '/root/Downloads/iccv09Data/images/'    
+    background_images_dir = '/root/Desktop/Dataset/iccv09Data/images/'
     image_path_list, num_width, num_height, num_x, num_y = [], [], [], [], []
     (X_train, y_train), (X_test, y_test) = mnist.load_data()
     
     #coordinate x,y then width height
     regression_file_name = '/root/Desktop/DeepLearning/Faster-RCNN/code/RPNDataset/train/Y/xywh'
-    classifiaction_file_name = '/root/Desktop/DeepLearning/Faster-RCNN/code/RPNDataset/train/Y/bf.txt'
+    #  classifiaction_file_name = '/root/Desktop/DeepLearning/Faster-RCNN/code/RPNDataset/train/Y/bf.txt'
       
     print("Reading names of images in the folder")
     for file in tqdm(os.listdir(background_images_dir)):
